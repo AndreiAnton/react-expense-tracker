@@ -13,6 +13,7 @@ function App() {
       <div className="container">
         <Balance />
         <IncomeExpenses />
+        <p>to be deleted</p>
         <TransactionList />
       </div>
     </div>
